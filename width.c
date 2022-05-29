@@ -1,3 +1,4 @@
+#include main,h
 /**
  * print_number_right_shift - prints a number with options
  * @str: the base number as a string
